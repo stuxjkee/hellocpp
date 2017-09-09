@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/hellocpp.dir/main.cpp.o  -o hellocpp -rdynamic 
