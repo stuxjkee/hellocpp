@@ -1,0 +1,3 @@
+/home/stuxjkee/hellocpp/buildx/CMakeFiles/edit_cache.dir
+/home/stuxjkee/hellocpp/buildx/CMakeFiles/rebuild_cache.dir
+/home/stuxjkee/hellocpp/buildx/CMakeFiles/hellocpp.dir
